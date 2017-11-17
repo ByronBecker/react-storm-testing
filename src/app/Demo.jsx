@@ -11,6 +11,8 @@ import {
 import * as React from "react";
 import * as ReactDOM from "react-dom"
 
+import "./srd.css";
+
 export default class Demo extends React.Component {
     /*
     constructor(props) {
